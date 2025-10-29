@@ -4,7 +4,7 @@
 Работаю с инструментами **Python**, **SQL**, **BI-системами** и **Excel**.
 
 ## 💻 Мои проекты 
-[E-commerce](https://github.com/kapitanenko1234-web/sql_portfolio/tree/main/electronic_sales_ecommerce_analysis) — Анализ данных о продажвх интернет-магазина  
+[E-commerce](https://github.com/kapitanenko1234-web/sql_portfolio/tree/main/electronic_sales_ecommerce_analysis) — Анализ данных о продажах интернет-магазина  
 [Job Parser](https://github.com/kapitanenko1234-web/python_portfolio/tree/main/data_analyst_job_parser) — Проект по парсингу и анализу вакансий для позиции Data Analyst  
 [ICO Analysis](https://github.com/kapitanenko1234-web/python_portfolio/tree/main/ico_data_pipeline) — Ретроспективный анализ инвестиционных меморандумов ICO-проектов 
 
