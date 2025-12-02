@@ -4,20 +4,23 @@
 Работаю с инструментами **Python**, **SQL**, **BI-системами** и **Excel**.
 
 ## 💻 Мои проекты 
-[E-commerce](https://github.com/kapitanenko1234-web/sql_portfolio/tree/main/electronic_sales_ecommerce_analysis) — Анализ данных о продажах интернет-магазина  
+[Анализ кредитной истории](https://github.com/kapitanenko1234-web/data_visualization/tree/main/credit_history_analysis) — Сегментации клиентов и выявление факторов, влияющих на кредитный рейтинг и просрочки платежей
+[E-commerce магазина одежды](https://github.com/kapitanenko1234-web/data_visualization/tree/main/clothing_store_analysis) — Анализ данных о продажах интернет-магазина  
+[E-commerce электроники](https://github.com/kapitanenko1234-web/sql_portfolio/tree/main/electronic_sales_ecommerce_analysis) — Анализ данных о продажах интернет-магазина  
 [Job Parser](https://github.com/kapitanenko1234-web/python_portfolio/tree/main/data_analyst_job_parser) — Проект по парсингу и анализу вакансий для позиции Data Analyst  
 [ICO Analysis](https://github.com/kapitanenko1234-web/python_portfolio/tree/main/ico_data_pipeline) — Ретроспективный анализ инвестиционных меморандумов ICO-проектов 
 
 
+
 ## 📁 Структура портфолио
-🐍 [Python Portfolio](https://github.com/kapitanenko1234-web/python_portfolio) — парсинг, аналитика, обработка данных.  
+🐍 [Python Portfolio](https://github.com/kapitanenko1234-web/python_portfolio) — парсинг, аналитика, обработка и анализ данных.  
 🧮 [SQL Portfolio](https://github.com/kapitanenko1234-web/sql_portfolio) — SQL-запросы и бизнес-логика.  
 📊 [Visual_Portfolio](https://github.com/kapitanenko1234-web/data_visualization) — графики, дашборды и визуализация данных.  
 📈 [Excel Portfolio](https://github.com/kapitanenko1234-web/Excel_Portfolio) — социально-экономическая и финансовая аналитика.   
 
 ## 🧰 Навыки и инструменты
-**Языки:** Python (Pandas, Requests, BeautifulSoup), SQL  
-**BI:** Power BI, Tableau  
+**Языки:** Python (Pandas, Requests, Numpay, Sklearn), SQL  
+**BI:** Power BI, Tableau, DataLence  
 **Excel:** Power Query, Pivot Tables  
 **Прочее:** Git & GitHub, аналитика данных, визуализация, работа с API
 
