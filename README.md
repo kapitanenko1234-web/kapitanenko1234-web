@@ -4,7 +4,7 @@
 Работаю с инструментами **Python**, **SQL**, **BI-системами** и **Excel**.
 
 ## 💻 Мои проекты 
-[Анализ кредитной истории](https://github.com/kapitanenko1234-web/data_visualization/tree/main/credit_history_analysis) — Сегментации клиентов и выявление факторов, влияющих на кредитный рейтинг и просрочки платежей
+[Анализ кредитной истории](https://github.com/kapitanenko1234-web/data_visualization/tree/main/credit_history_analysis) — Сегментации клиентов и выявление факторов, влияющих на кредитный рейтинг и просрочки платежей  
 [E-commerce магазина одежды](https://github.com/kapitanenko1234-web/data_visualization/tree/main/clothing_store_analysis) — Анализ данных о продажах интернет-магазина  
 [E-commerce магазина электроники](https://github.com/kapitanenko1234-web/sql_portfolio/tree/main/electronic_sales_ecommerce_analysis) — Анализ данных о продажах интернет-магазина  
 [Job Parser](https://github.com/kapitanenko1234-web/python_portfolio/tree/main/data_analyst_job_parser) — Проект по парсингу и анализу вакансий для позиции Data Analyst  
