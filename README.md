@@ -34,7 +34,7 @@ _...Портфолио постоянно обновляется..._
 
 ## 📨 Контакты
 📲 [Telegram](#@irina_kap1)  
-📧 Email: irinakapitanenko@yandex.ru
+📧 irinakapitanenko@yandex.ru
 
 ---
 
