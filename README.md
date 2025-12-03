@@ -21,7 +21,7 @@
 🐍 [Python Portfolio](https://github.com/kapitanenko1234-web/python_portfolio) — парсинг, аналитика, обработка и анализ данных.  
 🧮 [SQL Portfolio](https://github.com/kapitanenko1234-web/sql_portfolio) — SQL-запросы и бизнес-логика.  
 📊 [Visual_Portfolio](https://github.com/kapitanenko1234-web/data_visualization) — графики, дашборды и визуализация данных.  
-📈 [Excel Portfolio](https://github.com/kapitanenko1234-web/Excel_Portfolio) — социально-экономическая и финансовая аналитика.   
+📈 [Excel Portfolio](https://github.com/kapitanenko1234-web/Excel_Portfolio) — продуктовая, социально-экономическая и финансовая аналитика.   
 
 ## 🧰 Навыки и инструменты
 **Языки:** Python, SQL  
