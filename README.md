@@ -4,6 +4,9 @@
 Работаю с инструментами **Python**, **SQL**, **BI-системами** и **Excel**.
 
 ## 💻 Мои проекты 
+[Анализ рентабельности строительства](https://github.com/kapitanenko1234-web/Excel_Portfolio/blob/main/data_driven_construction_roi/data_driven_construction_roi.pdf) — data-driven оптимизация затрат и увеличение ROI с 14% до 71%  
+[Предпроектный анализ в real estate](https://github.com/kapitanenko1234-web/Excel_Portfolio/blob/main/product_analytics_market_fit_real_estate/product_analytics_market_fit_real_estate.pdf) — продуктовый подход к созданию объекта с рыночным fit и рентабельностью 42%  
+[Сравнительный анализ BIM-моделей](https://github.com/kapitanenko1234-web/Excel_Portfolio/blob/main/bim_vs_traditional_ab_test/bim_vs_traditional_ab_test.pdf) — A/B тестирование точности расчетов и выявление перерасхода в 30%  
 [ML в медицинском прогнозировании](https://github.com/kapitanenko1234-web/MachineLearning/tree/main/ML-MedPredictionModel) — Построение интерпретируемой и высокоточной модели для прогнозирования  
 [Статистическая проверка гипотез](https://github.com/kapitanenko1234-web/MedDataInsights/tree/main/StatisticsHypothesis) — Формулировка гипотез, проверка допущений, выбор критериев, интерпретация p-value  
 [EDA по факторам риска заболеваний](https://github.com/kapitanenko1234-web/MedDataInsights/tree/main/BiomedEDA) — Загрузка, профилирование, дескриптивная статистика и визуализация  
