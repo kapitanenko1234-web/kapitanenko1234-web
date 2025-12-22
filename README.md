@@ -28,7 +28,7 @@
 
 ## 🧰 Навыки и инструменты
 **Языки:** Python, SQL  
-**Python библиотеки:** Pandas, Numpay, Scikit-learn, Scipy.stats
+**Python библиотеки:** Pandas, Numpay, Scikit-learn, Scipy.stats  
 **BI:** Power BI, Tableau, DataLence  
 **Excel:** Power Query, Pivot Tables  
 **Прочее:** Machine Learning, статистический анализ, бизнес-аналитика, аналитика данных, визуализация, работа с API
