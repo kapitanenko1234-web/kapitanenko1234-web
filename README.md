@@ -4,6 +4,7 @@
 Работаю с инструментами **Python**, **SQL**, **BI-системами** и **Excel**.
 
 ## 💻 Мои проекты 
+[Прогнозирование оттока клиентов телеком-компании](https://github.com/kapitanenko1234-web/python_portfolio/blob/main/telecom_churn_prediction_ml/telecom_churn_prediction_ml.pdf) — разработке модели машинного обучения для прогнозирования оттока клиентов  
 [Анализ рентабельности строительства](https://github.com/kapitanenko1234-web/Excel_Portfolio/blob/main/data_driven_construction_roi/data_driven_construction_roi.pdf) — data-driven оптимизация затрат и увеличение ROI с 14% до 71%  
 [Предпроектный анализ в real estate](https://github.com/kapitanenko1234-web/Excel_Portfolio/blob/main/product_analytics_market_fit_real_estate/product_analytics_market_fit_real_estate.pdf) — продуктовый подход к созданию объекта с рыночным fit и рентабельностью 42%  
 [Сравнительный анализ BIM-моделей](https://github.com/kapitanenko1234-web/Excel_Portfolio/blob/main/bim_vs_traditional_ab_test/bim_vs_traditional_ab_test.pdf) — A/B тестирование точности расчетов и выявление перерасхода в 30%  
